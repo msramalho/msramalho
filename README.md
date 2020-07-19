@@ -6,20 +6,22 @@
  - 👯 Always open to talk about technology, and how to use it for social good
  - 📫 You can reach me through [LinkedIn](https://linkedin.com/msramalho)
 
+<a href="https://twitter.com/MiguelSoRamalho"><img align="right" alt="Miguel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
+<a href="https://linkedin.com/msramalho"><img align="right" alt="Miguel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+<a href="https://github.com/msramalho"><img align="right" alt="Miguel's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
+<a href="https://scholar.google.pt/citations?user=bc8N0CEAAAAJ&hl=en"><img align="right" alt="Miguel's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg"></a>
+<!-- <a href="https://medium.com/@msramalho"><img align="right" alt="Miguel's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"></a> -->
+<a href="https://msramalho.github.io/"><img align="right" alt="Miguel's Homepage" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/home-outline.svg"></a>
+
+<br>
+
+<p align="right">(Open to job offers and book recommendations, CV upon request 🖖)</p>
+
 #### Recent projects
 <ul>
  <li><a href="">MSc Thesis</a> on Twitter & political manipulation</li>
  <li><a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="14px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>, a tool for investigative journalism</li>
 </ul>
-
-<a href="https://twitter.com/MiguelSoRamalho"><img align="left" alt="Miguel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
-<a href="https://linkedin.com/msramalho"><img align="left" alt="Miguel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-<a href="https://github.com/msramalho"><img align="left" alt="Miguel's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
-<a href="https://scholar.google.pt/citations?user=bc8N0CEAAAAJ&hl=en"><img align="left" alt="Miguel's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg"></a>
-<!-- <a href="https://medium.com/@msramalho"><img align="left" alt="Miguel's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"></a> -->
-<a href="https://msramalho.github.io/"><img align="left" alt="Miguel's Homepage" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/home-outline.svg"></a>
-
-<p align="right">(Open to job offers and book recommendations, CV upon request 🖖)</p>
 
 
  
