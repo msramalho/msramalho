@@ -1,10 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=msramalho&show_icons=true&title_color=00BFA5&icon_color=00BFA5&text_color=ECEFF1&bg_color=263238&line_height=25"/>
 
 ### Call me Miguel. 
- - 🔭 I'm an ML/Software Engineer
- - 📖 A believer of open-source
- - 👯 Always open to talk about technology, and how to use it for social good
- - 📫 You can reach me through [LinkedIn](https://linkedin.com/msramalho)
+ - 📖 Lover of open-source
+ - 👯 Believer of tech for social good
+ - 📫 Reach me on [LinkedIn](https://linkedin.com/msramalho)
+ - 🖖 Open to job offers and book recommendations
 
 
 <h4>Recent projects: <a href="">MSc Thesis</a>: Twitter & political manipulation, <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="14px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>: a tool for investigative journalism</h4>
@@ -16,7 +16,7 @@
 <a href="https://medium.com/@msramalho"><img align="left" alt="Miguel's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"></a>
 <a href="https://github.com/msramalho"><img align="left" alt="Miguel's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
 
-<p align="right">(Open to <strong>job offers</strong> and <strong>book recommendations</strong>, CV upon request 🖖)</p>
+<!-- <p align="right">(Open to <strong>job offers</strong> and <strong>book recommendations</strong>, CV upon request 🖖)</p> -->
 
 
  
