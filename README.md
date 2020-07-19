@@ -16,7 +16,7 @@
 <p align="right">(Open to job offers and book recommendations)</p>
 
 
-<h4> Feel free to check my <a href="">MSc Thesis</a> on Twitter & political manipulation, and my latest project <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="16px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a> a tool for investigative journalism. 🖖</h4>
+<h4> Feel free to check my <a href="">MSc Thesis</a> on Twitter & political manipulation, and my latest project, <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="16px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>, a tool for investigative journalism. 🖖</h4>
 
 
 
