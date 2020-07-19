@@ -6,8 +6,7 @@
  - 👯 Always open to talk about technology and how to use it for social good
  - 📫 You can reach me through LinkedIn
  
- ---
- 
+<p align="left">Links: </p>
 <a href="https://twitter.com/MiguelSoRamalho"><img align="left" alt="Miguel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
 <a href="https://linkedin.com/msramalho"><img align="left" alt="Miguel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <a href="https://github.com/msramalho"><img align="left" alt="Miguel's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
