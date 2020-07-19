@@ -13,9 +13,7 @@
 <!-- <a href="https://medium.com/@msramalho"><img align="left" alt="Miguel's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"></a> -->
 <a href="https://msramalho.github.io/"><img align="left" alt="Miguel's Homepage" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/home-outline.svg"></a>
 
-<br>
-
-Current recommendations [Music](), [Book]()
+ | Current recommendations [Music](), [Book]()
 
  
 <!--
