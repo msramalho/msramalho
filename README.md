@@ -7,7 +7,7 @@
  - 📫 You can reach me through [LinkedIn](https://linkedin.com/msramalho)
 
 
-<h4>Recent projects: 1. <a href="">MSc Thesis</a> on Twitter & political manipulation | 2. <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="14px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>, a tool for investigative journalism</h4>
+<h4>Recent projects: <a href="">MSc Thesis</a>: Twitter & political manipulation, <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="14px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>: a tool for investigative journalism</h4>
 
 <a href="https://twitter.com/MiguelSoRamalho"><img align="left" alt="Miguel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
 <a href="https://linkedin.com/msramalho"><img align="left" alt="Miguel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
