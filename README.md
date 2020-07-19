@@ -15,7 +15,7 @@
 <a href="https://msramalho.github.io/"><img align="left" alt="Miguel's Homepage" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/home-outline.svg"></a>
 
  <!-- Current recommendations [Music](), [Book]() -->
-<br/>
+<br/><br/>
 
 Feel free to check my [MSc Thesis]() on Twitter and political manipulation, and my latest project [Desarquivo]() a tool for investigative journalism. 🖖
  
