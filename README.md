@@ -16,7 +16,7 @@
 <a href="https://medium.com/@msramalho"><img align="left" alt="Miguel's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"></a>
 <a href="https://github.com/msramalho"><img align="left" alt="Miguel's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
 
-<p align="right">(Open to job offers and book recommendations, CV upon request 🖖)</p>
+<p align="right">(<u>Open to job offers</u> and book recommendations, CV upon request 🖖)</p>
 
 
  
