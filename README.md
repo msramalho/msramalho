@@ -2,9 +2,9 @@
 
 ### Call me Miguel. 
  - 🔭 I'm an ML/Software Engineer
+ - 🔥 Open to job offers and book recommendations
  - 📖 A believer of open-source
  - 👯 Always open to talk about technology, and how to use it for social good
- - 🔥 Open to job offers and book recommendations
  - 📫 You can reach me through LinkedIn
 
 <a href="https://twitter.com/MiguelSoRamalho"><img align="left" alt="Miguel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
