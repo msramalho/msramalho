@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=msramalho&show_icons=true&title_color=1DE9B6&icon_color=00BFA5&text_color=ECEFF1&bg_color=212121&line_height=25&hide_title=true"/>  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=msramalho&show_icons=true&title_color=1DE9B6&icon_color=00BFA5&text_color=ECEFF1&bg_color=212121&line_height=30&hide_title=true"/>  
 
 ### Call me Miguel.
  - 🔭 I'm an ML/Software Engineer
