@@ -4,7 +4,7 @@
  - 📖 Lover of open-source
  - 👯 Believer of tech for social good
  - 📫 Reach me on [LinkedIn](https://linkedin.com/msramalho)
- - Open to job offers and book recommendations 🖖
+ - Open to **job offers** and **book recommendations** 🖖
 
 
 <a href="https://linkedin.com/msramalho"><img align="left" alt="Miguel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
