@@ -8,7 +8,7 @@
  - Open to **job offers** and **book recommendations** 🖖
 
 
-<h4>Recent projects: <a href="https://github.com/msramalho/msc-thesis">MSc Thesis</a>: Twitter & political manipulation, and <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="14px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>: a tool for investigative journalism.</h4>
+<h4>Recent projects: <a href="https://msramalho.github.io/msc-thesis.pdf">MSc Thesis</a>: Twitter & political manipulation, and <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="14px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>: a tool for investigative journalism.</h4>
 
 <br>
 
