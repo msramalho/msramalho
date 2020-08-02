@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=msramalho&show_icons=true&title_color=00BFA5&icon_color=00BFA5&text_color=ECEFF1&bg_color=263238&line_height=22"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=msramalho&show_icons=true&title_color=00BFA5&icon_color=00BFA5&text_color=ECEFF1&bg_color=263238&line_height=22"/> -->
 
 
 ### Call me Miguel. 
