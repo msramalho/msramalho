@@ -8,6 +8,10 @@
  - Open to **job offers** and **book recommendations** 🖖
 
 
+<h4>Recent projects: <a href="https://github.com/msramalho/msc-thesis">MSc Thesis</a>: Twitter & political manipulation, and <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="14px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>: a tool for investigative journalism.</h4>
+
+<br>
+
 <a href="https://linkedin.com/msramalho"><img align="left" alt="Miguel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <a href="https://scholar.google.pt/citations?user=bc8N0CEAAAAJ&hl=en"><img align="left" alt="Miguel's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg"></a>
 <a href="https://msramalho.github.io/"><img align="left" alt="Miguel's Homepage" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/home-outline.svg"></a>
@@ -15,9 +19,6 @@
 <a href="https://medium.com/@msramalho"><img align="left" alt="Miguel's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"></a>
 <a href="https://github.com/msramalho"><img align="left" alt="Miguel's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
 
-<br>
-
-<h4>Recent projects: <a href="https://github.com/msramalho/msc-thesis">MSc Thesis</a>: Twitter & political manipulation, and <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="14px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>: a tool for investigative journalism.</h4>
 
 <!-- <p align="right">(Open to <strong>job offers</strong> and <strong>book recommendations</strong>, CV upon request 🖖)</p> -->
 
