@@ -4,7 +4,7 @@
 ### Call me Miguel. 
  - 📖 Lover of open-source
  - 👯 Believer of tech for social good
- - 📫 Reach me on [LinkedIn](https://linkedin.com/msramalho)
+ - 📫 Reach me on [LinkedIn](https://linkedin.com/in/msramalho)
 <!-- - Open to **job offers** and **book recommendations** 🖖 -->
 
 
