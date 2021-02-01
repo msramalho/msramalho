@@ -1,6 +1,6 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=msramalho&show_icons=true&title_color=00BFA5&icon_color=00BFA5&text_color=ECEFF1&bg_color=263238&line_height=22"/> -->
 
-_Call me Miguel._ I believe in open-source as the best path for technology to advance, and that technology's ultimate goal should be social good. You can reach me by opening a ticket on one of my repos, on [LinkedIn](https://linkedin.com/in/msramalho) or on [Twitter](https://twitter.com/SozinhoRamalho). 
+_Call me Miguel._ I believe in open-source as the best path for technology to advance, and that technology's ultimate goal should be social good. You can reach me by opening a ticket on one of my repos, [LinkedIn](https://linkedin.com/in/msramalho) or [Twitter](https://twitter.com/SozinhoRamalho). 
 Some of my projects:
  
  - <a href="https://msramalho.github.io/msc-thesis.pdf">MSc Thesis</a>: Twitter & political manipulation
