@@ -1,26 +1,13 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=msramalho&show_icons=true&title_color=00BFA5&icon_color=00BFA5&text_color=ECEFF1&bg_color=263238&line_height=22"/> -->
-<table border="0">
- <tr>
-    <td align="center"><b style="font-size:30px">Call me Miguel. </b></td>
-    <td align="center"><b style="font-size:30px">Recent projects</b></td>
- </tr>
- <tr>
-    <td>
-  
- - 📖 Lover of open-source
- - 👯 Believer of tech for social good
- - 📫 Reach me on [LinkedIn](https://linkedin.com/in/msramalho)
-  
-  </td>
-    <td>
+
+_Call me Miguel._ I believe in open-source as the best path for technology to advance, and that technology's ultimate goal should be social good. You can reach me by opening a ticket on one of my repos, on [LinkedIn](https://linkedin.com/in/msramalho) or on [Twitter](https://twitter.com/SozinhoRamalho). 
+Some of my projects:
  
  - <a href="https://msramalho.github.io/msc-thesis.pdf">MSc Thesis</a>: Twitter & political manipulation
  - <a href="https://msramalho.github.io/desarquivo/"><img alt="Desarquivo's logo" width="14px" src="https://msramalho.github.io/desarquivo/favicon.ico">Desarquivo</a>: Tool for investigative journalism
- - <a href="https://msramalho.github.io/election-watch/">🗳️+👀 Election Watch </a>: Monitoring social media ahead of 2021 🇵🇹 Elections.
+ - <a href="https://msramalho.github.io/election-watch/">🗳️+👀 Election Watch </a>: Monitoring social media ahead of 2021 🇵🇹 Elections (archived data).
 
-  </td>
- </tr>
-</table>
+
 <!-- 
 ### Call me Miguel. 
  - 📖 Lover of open-source
