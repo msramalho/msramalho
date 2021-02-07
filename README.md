@@ -2,7 +2,7 @@
 
 _Call me Miguel._ 
 
-I believe in open-source as the best path for technology to advance, and that it should advanc towards social good. 
+I believe in open-source as the best path for technology to advance, and that it should advance towards social good. 
 
 Reach me on [LinkedIn](https://linkedin.com/in/msramalho) or [Twitter](https://twitter.com/SozinhoRamalho), and maybe check some of my recent projects:
  
