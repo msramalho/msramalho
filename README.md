@@ -1,7 +1,7 @@
 
 <!-- I believe in open-source as the best path for technology to advance, and that it should advance towards social good. -->
 
-DMs via [Twitter](https://twitter.com/SozinhoRamalho) or [LinkedIn](https://linkedin.com/in/msramalho). 
+DMs via [Signal](https://signal.org/) `@miguel.351`, or [LinkedIn](https://linkedin.com/in/msramalho). 
 
 Read article contributions [@bellingcat.com](https://www.bellingcat.com/author/miguelramalho/)
 
