@@ -6,6 +6,7 @@ DMs via [Signal](https://signal.org/) `@miguel.351`, or [LinkedIn](https://linke
 Read article contributions [@bellingcat.com](https://www.bellingcat.com/author/miguelramalho/)
 
 Some projects:
+ - <a href="https://www.bellingcat.com/news/2024/04/29/weve-become-addicted-to-explosions-the-idf-unit-responsible-for-demolishing-homes-across-gaza/">The IDF Unit Responsible for Demolishing Homes Across Gaza</a>: dynamic story visualisation
  - <a href="https://github.com/bellingcat/vis-tj-kg-map-2022">Tajikistan-Kyrgyzstan Border Clash 2022</a>: Interactive mapping of destruction
  - <a href="https://github.com/bellingcat/ukraine-timemap">Ukraine Timemap</a>: Visual mapping of civilian harm
  - <a href="https://github.com/bellingcat/auto-archiver">Auto-archiver</a>: Online media archiving library
